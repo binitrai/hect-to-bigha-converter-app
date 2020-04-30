@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hect-to-bigha-converter-app/static/css/main.33037c13.chunk.css",
+    "main.js": "/hect-to-bigha-converter-app/static/js/main.b359bba7.chunk.js",
+    "main.js.map": "/hect-to-bigha-converter-app/static/js/main.b359bba7.chunk.js.map",
+    "runtime-main.js": "/hect-to-bigha-converter-app/static/js/runtime-main.8dded91c.js",
+    "runtime-main.js.map": "/hect-to-bigha-converter-app/static/js/runtime-main.8dded91c.js.map",
+    "static/js/2.0a37d8b4.chunk.js": "/hect-to-bigha-converter-app/static/js/2.0a37d8b4.chunk.js",
+    "static/js/2.0a37d8b4.chunk.js.map": "/hect-to-bigha-converter-app/static/js/2.0a37d8b4.chunk.js.map",
+    "index.html": "/hect-to-bigha-converter-app/index.html",
+    "precache-manifest.da61e42fb419de4f2ae781208312dc11.js": "/hect-to-bigha-converter-app/precache-manifest.da61e42fb419de4f2ae781208312dc11.js",
+    "service-worker.js": "/hect-to-bigha-converter-app/service-worker.js",
+    "static/css/main.33037c13.chunk.css.map": "/hect-to-bigha-converter-app/static/css/main.33037c13.chunk.css.map",
+    "static/js/2.0a37d8b4.chunk.js.LICENSE": "/hect-to-bigha-converter-app/static/js/2.0a37d8b4.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dded91c.js",
+    "static/js/2.0a37d8b4.chunk.js",
+    "static/css/main.33037c13.chunk.css",
+    "static/js/main.b359bba7.chunk.js"
+  ]
+}
