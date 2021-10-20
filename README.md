@@ -1,4 +1,4 @@
-# sw-search
+# Hectare to Bigha Converter
 ### Steps to run the project
 ```
 npm install
